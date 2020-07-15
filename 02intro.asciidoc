@@ -560,6 +560,9 @@ It may not seem like much, but you've just successfully interacted with software
 We will do a lot more smart contract programming in <<smart_contracts_chapter>> and learn about best practices and security considerations in <<smart_contract_security>>.(((range="endofrange", startref="ix_02intro-asciidoc0")))
 
 
+We will do a lot more smart contract programming in link:07smart-contracts-solidity.asciidoc[Chapter 7] and learn about best practices and security considerations in link:09smart-contracts-security.asciidoc[Chapter 9]
+
+
 [Chapter 7](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
 
 [Chapter 7](./blob/develop/07smart-contracts-solidity.asciidoc)

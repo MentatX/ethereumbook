@@ -567,3 +567,12 @@ We will do a lot more smart contract programming in <<smart_contracts_chapter>> 
 [Chapter 7](07smart-contracts-solidity.asciidoc)
 
 [Chapter 7](./07smart-contracts-solidity.asciidoc)
+
+
+link:07smart-contracts-solidity.asciidoc[Chapter 7]
+
+
+link::07smart-contracts-solidity.asciidoc[Chapter 7]
+
+
+file::07smart-contracts-solidity.asciidoc[Chapter 7]
